@@ -26,7 +26,7 @@ class Attractor {
   }
 
   // Method to display
-  display() {
+  show() {
     ellipseMode(CENTER);
     strokeWeight(4);
     stroke(0);
